@@ -9,7 +9,7 @@ library(DBI)
 m <- dbDriver("MySQL");
 
 # Establecimiento de conexión
-con <- dbConnect(m,user='bda',password='bda',host='192.241.159.100',dbname='employees');
+con <- dbConnect(m,user='root',password='password123',host='localhost',dbname='employees');
 
 # Ejecución de consulta
 res <- dbSendQuery(con, "select * from departments")
