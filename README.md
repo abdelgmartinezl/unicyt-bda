@@ -1,4 +1,4 @@
-# uip-pc3
+# unicyt-bda
 
 Material de apoyo para el curso "Base de Datos Avanzadas", dictado en la Universidad Internacional de Ciencia y Tecnología.
 
